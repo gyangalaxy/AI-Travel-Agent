@@ -1,0 +1,69 @@
+# -------------------------------
+# Core AI / LLM Libraries
+# -------------------------------
+openai>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.29
+langchain-experimental>=0.0.56
+langgraph>=0.0.45
+
+# -------------------------------
+# Web App
+# -------------------------------
+streamlit>=1.28.0
+
+# -------------------------------
+# Environment & Configuration
+# -------------------------------
+python-dotenv>=1.0.0
+
+# -------------------------------
+# Web Search / APIs
+# -------------------------------
+google-search-results>=2.4.2
+duckduckgo-search>=4.0.0
+requests>=2.31.0
+youtube-search-python>=1.6.6
+
+# -------------------------------
+# Weather API
+# -------------------------------
+pyowm>=3.3.0
+
+# -------------------------------
+# Data Processing
+# -------------------------------
+pandas>=2.0.0
+numpy>=1.24.0
+
+# -------------------------------
+# HTTP Clients
+# -------------------------------
+httpx>=0.24.0
+aiohttp>=3.8.0
+
+# -------------------------------
+# Image Processing
+# -------------------------------
+Pillow>=10.0.0
+
+# -------------------------------
+# Data Validation / JSON
+# -------------------------------
+pydantic>=2.0.0
+typing-extensions>=4.5.0
+
+# -------------------------------
+# Jupyter Development Environment (Optional)
+# -------------------------------
+jupyter>=1.0.0
+notebook>=7.0.0
+ipython>=8.0.0
+
+# -------------------------------
+# Development Tools (Optional)
+# -------------------------------
+black>=23.0.0
+flake8>=6.0.0
